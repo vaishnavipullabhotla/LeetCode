@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |

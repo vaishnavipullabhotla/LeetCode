@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0500-keyboard-row) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0500-keyboard-row](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0500-keyboard-row) |
 ## Greedy
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

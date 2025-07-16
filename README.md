@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

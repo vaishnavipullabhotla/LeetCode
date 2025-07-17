@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
 ## Matrix
 |  |

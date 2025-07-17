@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 ## Sorting
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->

@@ -1,44 +1,26 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n=nums.length;
-        //Brute Force
-        // Set<List<Integer>> s=new HashSet<>();
-        // for(int i=0;i<n;i++){
-        //     for(int j=i+1;j<n;j++){
-        //         for(int k=j+1;k<n;k++){
-        //             List<Integer> t=new ArrayList<>();
-        //             if(nums[i]+nums[j]+nums[k]==0)
-        //             {
-        //                 t.add(nums[i]);
-        //                 t.add(nums[j]);
-        //                 t.add(nums[k]);
-        //                 Collections.sort(t);
-        //                 s.add(t);
-        //             }
-        //         }
-        //     }
-        // }
-        // return new ArrayList<>(s);
-        //TLE TC O(N3)
-        //Better
-        // List<List<Integer>> list = new ArrayList<>();
+        Arrays.sort(nums);
         Set<List<Integer>> set = new HashSet<>();
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n-1;i++)
         {
-            Set<Integer> vis = new HashSet<>();
-            for(int j=i+1;j<n;j++)
+            int l=i+1,r=n-1;
+            while(l<r)
             {
-                int k = -(nums[i]+nums[j]);
-                if(vis.contains(k))
+                int sum = nums[i]+nums[l]+nums[r];
+                if(sum<0)
+                l++;
+                else if(sum>0)
+                r--;
+                if(sum==0)
                 {
-                    List<Integer> list = new ArrayList<>();
-                    list.add(nums[i]);
-                    list.add(nums[j]);
-                    list.add(k);
-                    Collections.sort(list);
+                    List<Integer> list = Arrays.asList(nums[i],nums[l],nums[r]);
+                    //this method is used to add directly numbers as a list
                     set.add(list);
+                    l++;
+                    r--;
                 }
-                vis.add(nums[j]);
             }
         }
         return new ArrayList<>(set);

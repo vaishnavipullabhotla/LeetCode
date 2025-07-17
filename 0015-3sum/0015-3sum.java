@@ -12,10 +12,6 @@ class Solution {
             while(l<r)
             {
                 int sum = nums[i]+nums[l]+nums[r];
-                if(sum<0)
-                l++;
-                else if(sum>0)
-                r--;
                 if(sum==0)
                 {
                     while(l<r && nums[l]==nums[l+1])
@@ -27,6 +23,8 @@ class Solution {
                     l++;
                     r--;
                 }
+                else if(sum<0) l++;
+                else r--;
             }
         }
         return list;

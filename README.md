@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
+| [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
+| [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 ## Counting
 |  |

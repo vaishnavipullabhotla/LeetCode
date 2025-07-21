@@ -21,5 +21,6 @@ class Solution
             hs.add(i);
         }
         return true;
+        //TC O(N) SC O(N)
     }
 }

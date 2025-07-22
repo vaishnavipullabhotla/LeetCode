@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |

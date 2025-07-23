@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -137,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->

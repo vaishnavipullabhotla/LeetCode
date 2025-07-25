@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0041-first-missing-positive) |

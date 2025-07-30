@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0792-binary-search](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |

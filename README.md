@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3324-split-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0326-power-of-three) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3324-split-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |

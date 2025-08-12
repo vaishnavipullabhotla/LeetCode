@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0326-power-of-three) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
@@ -222,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->

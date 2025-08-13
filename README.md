@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |

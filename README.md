@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |

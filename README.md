@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |

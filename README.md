@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1635-number-of-good-pairs](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0229-majority-element-ii) |
+| [1635-number-of-good-pairs](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3324-split-the-array) |
 ## String
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |

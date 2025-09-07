@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3324-split-the-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |

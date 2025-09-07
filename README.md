@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3830-find-closest-person](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |

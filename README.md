@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0645-set-mismatch) |
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 ## Binary Search
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1635-number-of-good-pairs) |

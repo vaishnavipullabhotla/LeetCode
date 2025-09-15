@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0500-keyboard-row) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2507-number-of-common-factors) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

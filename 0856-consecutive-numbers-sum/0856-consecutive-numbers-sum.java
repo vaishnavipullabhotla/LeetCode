@@ -9,8 +9,8 @@ class Solution
             int numerator = (n-(i*(i-1)/2));
             if(numerator % i == 0)
             {
-                int x = numerator/i;
-                if(x > 0)
+                // int x = numerator/i;
+                // if(x > 0)
                 cnt++;
             }
         }

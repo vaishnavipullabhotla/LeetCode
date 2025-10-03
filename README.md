@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2159-two-out-of-three) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/2561-number-of-distinct-averages) |

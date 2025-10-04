@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1258-article-views-i](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vaishnavipullabhotla/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
